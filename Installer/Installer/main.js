@@ -11,8 +11,6 @@ let progress;
 let destination;
 let win;
 
-
-
 const createWindow = () => {
    win = new BrowserWindow({
     titleBarStyle: 'hidden',
