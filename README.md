@@ -1,7 +1,7 @@
 # GDevelop Custom Installer
 An Electron app that helps you to create a custom installer for your game.
 
-1- * In `cmd` or `Powershell` open the `Appp/app01Intro`
+1- * In `cmd` or `Powershell` open the `Installer/Installer`
 `cd .\Desktop\Installer\Installer`
 
 2- * Run `npm install --save-dev electron`
